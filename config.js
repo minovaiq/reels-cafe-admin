@@ -1,0 +1,1 @@
+window.REELS_CONFIG={supabaseUrl:"https://sfkregfqeqzlkundrkyh.supabase.co",supabasePublishableKey:"sb_publishable_3GbjyPl3JcUbFhpyvnBPKA_-jmMoa75"};
